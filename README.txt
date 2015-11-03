@@ -1,3 +1,3 @@
 description for rep
 
-commit for qa branch )
+commit for master branch )
