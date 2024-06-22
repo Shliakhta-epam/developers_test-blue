@@ -6,6 +6,14 @@ tags: [tutorial>beginner, programming tool>API, topic>Best Run, tutorial>license
 time: 30
 
 ---
+## Prerequisites
+
+Some text here.
+And some more here.
+This text block is not marked as a separate section but it should be rendered after 'Prerequisites' section.
+—
+
+### Step 1
 
 [ACCORDION-BEGIN [Step 1: ](All 3 options, all with code snippets)]
 1.  From the **Sources** list, choose **Service URL**.  
