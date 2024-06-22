@@ -55,21 +55,21 @@ In the service key you created for Document Information Extraction in the previo
 
 [ACCORDION-BEGIN [Step 2: ](See list of document fields you can extract)]
 
-Use the **GET /capabilities** endpoint to see the list of document fields and enrichment data for each document type you can process with Document Information Extraction.
+	Use the **GET /capabilities** endpoint to see the list of document fields and enrichment data for each document type you can process with Document Information Extraction.
 
-Click the endpoint name to expand it, click **Try it out**, and then **Execute**.
+	Click the endpoint name to expand it, click **Try it out**, and then **Execute**.
 
-!![DOX](png-files/capabilities.png)
+	!![DOX](png-files/capabilities.png)
 
-!![DOX](png-files/capabilities2.png)
+	!![DOX](png-files/capabilities2.png)
 
-You should receive a response like the following:
+	You should receive a response like the following:
 
-!![DOX](png-files/capabilitiesResponse.png)
+	!![DOX](png-files/capabilitiesResponse.png)
 
->If you get an error response code 401 (Unauthorized), your token is probably incorrect. Check if you have added the word **`bearer`** before the token and if the token value is complete and has been properly copied from the **`access_token`** value you received in the previous tutorial: [Get OAuth Access Token for Document Information Extraction via Web Browser](cp-aibus-dox-web-oauth-token).
+	>If you get an error response code 401 (Unauthorized), your token is probably incorrect. Check if you have added the word **`bearer`** before the token and if the token value is complete and has been properly copied from the **`access_token`** value you received in the previous tutorial: [Get OAuth Access Token for Document Information Extraction via Web Browser](cp-aibus-dox-web-oauth-token).
 
-[DONE]
+	[DONE]
 [ACCORDION-END]
 
 
