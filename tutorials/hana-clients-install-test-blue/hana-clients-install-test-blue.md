@@ -1,5 +1,5 @@
 ---
-title: Test Blue Green Install the SAP HANA Client new
+title: HANA Clients install Test Blue 
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10

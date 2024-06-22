@@ -1,4 +1,5 @@
 ---
+title: HXE UA keyboard vm Test Blue
 parser: v2
 primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]

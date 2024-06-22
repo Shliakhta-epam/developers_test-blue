@@ -1,5 +1,5 @@
 ---
-title: Test Blue nine
+title: Tutorial file to be filled Test Blue
 description: example
 tags: [tutorial>beginner, topic>api, tutorial>community, tutorial>license]
 primary_tag: topic>Java
