@@ -1,6 +1,6 @@
 ---
 title: Four Test Blue
-description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
+description: Update #1 Links, tips, tricks and more for getting started with the SAP HANA, express edition
 primary_tag: topic>Java
 tags: [tutorial>beginner, programming tool>API, topic>Best Run, tutorial>license]
 time: 30
